@@ -8,3 +8,4 @@
 /var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.dll
 /var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/refint/textbasedgame.dll
 /var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.pdb
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.sourcelink.json

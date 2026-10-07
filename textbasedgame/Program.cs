@@ -80,7 +80,6 @@
     //the games responses to commands
     void PlayerInput()
     {
-        string? toBeWritten;
         string? playerInput = Console.ReadLine();
         string firstWord = "empty";
         string secondWord = "empty";
@@ -168,7 +167,14 @@
         //alright now we can finally assign toBeWritten depending on where you're at and what firstWord and secondWord are!!
         if (area == 1)
         {
-            //uhh
+            //actually do i even need toBeWritten? wouldn't it be better to just write it here? yeah i think so, goodbye, toBeWritten
+            if (firstWord == "")
+            {
+                if (secondWord == "")
+                {
+                    Console.WriteLine("");
+                }
+            }
         }
 
         Thread.Sleep(1000);
