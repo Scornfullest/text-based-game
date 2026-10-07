@@ -168,7 +168,7 @@
         //alright now we can finally assign toBeWritten depending on where you're at and what firstWord and secondWord are!!
         if (area == 1)
         {
-            //
+            //uh
         }
 
         Thread.Sleep(1000);
