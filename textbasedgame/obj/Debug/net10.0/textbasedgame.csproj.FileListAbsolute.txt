@@ -1,0 +1,10 @@
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/bin/Debug/net10.0/textbasedgame
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/bin/Debug/net10.0/textbasedgame.dll
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/bin/Debug/net10.0/textbasedgame.pdb
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.AssemblyInfoInputs.cache
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.AssemblyInfo.cs
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.csproj.CoreCompileInputs.cache
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.dll
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/refint/textbasedgame.dll
+/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/Debug/net10.0/textbasedgame.pdb
