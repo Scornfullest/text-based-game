@@ -3,6 +3,12 @@ Licenced under the Open Software Licence version 3.0
 
 This is a Text-Based Interactive Fiction game. It's a bit like the Text Adventure games of the last century (although they still exist, of course). If you've played those before, you probably know how they work, however, this game is slightly different.
 
+HOW TO PLAY
+If gotten from GitHub:
+Open the solution (.sln) in Visual Studio Community / JetBrains Rider / ...
+
+If gotten as a publish (single folder): (Extract and) open the folder, then right-click and run the executable (.exe / ...) in your console.
+
 CONTROLS
 
 This game works best with a two-word input in the form of "<verb>  <adjective>". (Because I'm not making a parser, I'm not that skilled or patient.)
