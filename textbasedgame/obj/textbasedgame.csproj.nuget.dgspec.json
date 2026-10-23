@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/var/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj": {}
+    "/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj": {}
   },
   "projects": {
-    "/var/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj": {
+    "/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj",
+        "projectUniqueName": "/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj",
         "projectName": "textbasedgame",
-        "projectPath": "/var/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj",
+        "projectPath": "/home/LR/RiderProjects/textbasedgame/textbasedgame/textbasedgame.csproj",
         "packagesPath": "/home/LR/.nuget/packages/",
-        "outputPath": "/var/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/",
+        "outputPath": "/home/LR/RiderProjects/textbasedgame/textbasedgame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/LR/.nuget/NuGet/NuGet.Config"
@@ -56,12 +56,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[10.0.13, 10.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[10.0.13, 10.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[10.0.13, 10.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/LR/.dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/LR/.dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -336,6 +350,11 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

@@ -13,7 +13,7 @@
     List<string> surroundings = ["area", "around", "surroundings", "surrounding", "environment", "vicinity", "setting", "space", "zone", "dungeon", "region"];
     List<string> door = ["door", "puzzle", "exit"];
     //again command?
-
+    
     var dictionary = new Dictionary<string, List<string>>() //don't forget to add the lists to this again
     {
         {"move", move},
